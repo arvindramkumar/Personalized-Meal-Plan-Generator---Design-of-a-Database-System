@@ -9,4 +9,5 @@ Tools Used: MySQL, VBA, Tableau
 
 
 •	Developing a user interfaced application to give an optimized food plan for people who prefer Junk food in less than 15 minutes using GUI. 
+
 •	A relational database was developed using ER Modelling and by using SQL and using ODBC Connector to link the SQL to VBA, we were able perform all the Query based on the user input and the output was displayed on the user interfaced Application. 
